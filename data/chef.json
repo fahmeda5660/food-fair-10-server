@@ -1,0 +1,320 @@
+[
+    {
+        "id": 1,
+        "chef_name": "Giada De Laurentiis",
+        "chef_picture": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
+        "description": "Giada De Laurentiis is an Italian-American chef, author, and television personality. She is known for her simple, healthy recipes that feature traditional Italian flavors. Giada has written several cookbooks and hosted several cooking shows.",
+        "likes": 9000,
+        "num_recipes": 3,
+        "years_experience": 20,
+        "recipes": [
+            {   
+                "recipe_img":"https://www.thesun.co.uk/wp-content/uploads/2020/08/NINTCHDBPICT000603046726.jpg",
+                "recipe_name": "Spaghetti with Lemon and Arugula",
+                "country": "Italian Food",
+                "ingredients": [
+                    "spaghetti",
+                    "lemon",
+                    "arugula",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "cooking_method": "1. Cook spaghetti in boiling salted water. 2. Reserve 1 cup of pasta water. 3. In a large skillet, heat olive oil and garlic. 4. Add lemon zest and juice. 5. Add cooked pasta, arugula, and pasta water. 6. Toss to combine. 7. Add parmesan cheese and season with salt and pepper. 8. Serve hot.",
+                "rating": 4.5
+            },
+            {   
+                "recipe_img":"https://fullsuitcase.com/wp-content/uploads/2020/06/Authentic-Italian-food-by-region.jpg",
+                "recipe_name": "Pesto Risotto",
+                "country": "Italian Food",
+                "ingredients": [
+                    "arborio rice",
+                    "chicken broth",
+                    "pesto sauce",
+                    "parmesan cheese",
+                    "butter"
+                ],
+                "cooking_method": "1. In a large saucepan, heat chicken broth over medium heat. 2. In another saucepan, heat butter and add arborio rice. 3. Add chicken broth, one ladle at a time, stirring constantly. 4. Add pesto sauce and parmesan cheese. 5. Cook until the rice is tender and the risotto is creamy. 6. Serve hot.",
+                "rating": 4.8
+            },
+            {   
+                "recipe_img":"https://www.tastingtable.com/img/gallery/20-italian-dishes-you-need-to-try-at-least-once/l-intro-1643403830.jpg",
+                "recipe_name": "Chicken Piccata",
+                "country": "Italian Food",
+                "ingredients": [
+                    "chicken breasts",
+                    "flour",
+                    "butter",
+                    "lemon juice",
+                    "capers"
+                ],
+                "cooking_method": "1. Season chicken breasts with salt and pepper. 2. Dredge in flour. 3. In a large skillet, heat butter over medium heat. 4. Add chicken breasts and cook until golden brown. 5. Add lemon juice and capers. 6. Cook until the sauce thickens. 7. Serve hot.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_name": "Massimo Bottura",
+        "chef_picture": "https://media.istockphoto.com/id/1217012868/photo/handsome-young-african-chef-standing-in-professional-kitchen-in-restaurant-preparing-a-meal.jpg?s=612x612&w=0&k=20&c=mhDN-Bc00EVegItYFluKNkgvGcqax6pQhPuOAvRFPNo=",
+        "description": "Massimo Bottura is an Italian restaurateur and the chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italian Food. He is known for his innovative and contemporary take on traditional Italian cuisine.",
+        "likes": 9000,
+        "num_recipes": 3,
+        "years_experience": 20,
+        "recipes": [
+            {
+                "recipe_img":"https://www.thesun.co.uk/wp-content/uploads/2020/08/NINTCHDBPICT000603046726.jpg",
+                "recipe_name": "Spaghetti with Lemon and Arugula",
+                "country": "Italian Food",
+                "ingredients": [
+                    "spaghetti",
+                    "lemon",
+                    "arugula",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "cooking_method": "1. Cook spaghetti in boiling salted water. 2. Reserve 1 cup of pasta water. 3. In a large skillet, heat olive oil and garlic. 4. Add lemon zest and juice. 5. Add cooked pasta, arugula, and pasta water. 6. Toss to combine. 7. Add parmesan cheese and season with salt and pepper. 8. Serve hot.",
+                "rating": 4.5
+            },
+            {   
+                "recipe_img":"https://fullsuitcase.com/wp-content/uploads/2020/06/Authentic-Italian-food-by-region.jpg",
+                "recipe_name": "Pesto Risotto",
+                "country": "Italian Food",
+                "ingredients": [
+                    "arborio rice",
+                    "chicken broth",
+                    "pesto sauce",
+                    "parmesan cheese",
+                    "butter"
+                ],
+                "cooking_method": "1. In a large saucepan, heat chicken broth over medium heat. 2. In another saucepan, heat butter and add arborio rice. 3. Add chicken broth, one ladle at a time, stirring constantly. 4. Add pesto sauce and parmesan cheese. 5. Cook until the rice is tender and the risotto is creamy. 6. Serve hot.",
+                "rating": 4.8
+            },
+            {   
+                "recipe_img":"https://www.tastingtable.com/img/gallery/20-italian-dishes-you-need-to-try-at-least-once/l-intro-1643403830.jpg",
+                "recipe_name": "Chicken Piccata",
+                "country": "Italian Food",
+                "ingredients": [
+                    "chicken breasts",
+                    "flour",
+                    "butter",
+                    "lemon juice",
+                    "capers"
+                ],
+                "cooking_method": "1. Season chicken breasts with salt and pepper. 2. Dredge in flour. 3. In a large skillet, heat butter over medium heat. 4. Add chicken breasts and cook until golden brown. 5. Add lemon juice and capers. 6. Cook until the sauce thickens. 7. Serve hot.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_name": "Lidia Bastianich",
+        "chef_picture": "https://media.istockphoto.com/id/877309720/photo/confident-chef-standing-arms-crossed-in-kitchen.jpg?s=612x612&w=0&k=20&c=-l7AWG8KCZmaagMDLdYZL0BEqYUT7dBeUX8n-DZOKKo=",
+        "description": "Lidia Bastianich is an Italian-American chef, restaurateur, and author. She is the owner of several Italian restaurants in the United States, and has written several cookbooks and hosted several television programs on Italian cooking.",
+        "likes": 9000,
+        "num_recipes": 3,
+        "years_experience": 20,
+        "recipes": [
+            {   
+                "recipe_img":"https://www.thesun.co.uk/wp-content/uploads/2020/08/NINTCHDBPICT000603046726.jpg",
+                "recipe_name": "Spaghetti with Lemon and Arugula",
+                "country": "Italian Food",
+                "ingredients": [
+                    "spaghetti",
+                    "lemon",
+                    "arugula",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "cooking_method": "1. Cook spaghetti in boiling salted water. 2. Reserve 1 cup of pasta water. 3. In a large skillet, heat olive oil and garlic. 4. Add lemon zest and juice. 5. Add cooked pasta, arugula, and pasta water. 6. Toss to combine. 7. Add parmesan cheese and season with salt and pepper. 8. Serve hot.",
+                "rating": 4.5
+            },
+            {   
+                "recipe_img":"https://fullsuitcase.com/wp-content/uploads/2020/06/Authentic-Italian-food-by-region.jpg",
+                "recipe_name": "Pesto Risotto",
+                "country": "Italian Food",
+                "ingredients": [
+                    "arborio rice",
+                    "chicken broth",
+                    "pesto sauce",
+                    "parmesan cheese",
+                    "butter"
+                ],
+                "cooking_method": "1. In a large saucepan, heat chicken broth over medium heat. 2. In another saucepan, heat butter and add arborio rice. 3. Add chicken broth, one ladle at a time, stirring constantly. 4. Add pesto sauce and parmesan cheese. 5. Cook until the rice is tender and the risotto is creamy. 6. Serve hot.",
+                "rating": 4.8
+            },
+            {   
+                "recipe_img":"https://www.tastingtable.com/img/gallery/20-italian-dishes-you-need-to-try-at-least-once/l-intro-1643403830.jpg",
+                "recipe_name": "Chicken Piccata",
+                "country": "Italian Food",
+                "ingredients": [
+                    "chicken breasts",
+                    "flour",
+                    "butter",
+                    "lemon juice",
+                    "capers"
+                ],
+                "cooking_method": "1. Season chicken breasts with salt and pepper. 2. Dredge in flour. 3. In a large skillet, heat butter over medium heat. 4. Add chicken breasts and cook until golden brown. 5. Add lemon juice and capers. 6. Cook until the sauce thickens. 7. Serve hot.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_name": "Gualtiero Marchesi ",
+        "chef_picture": "https://media.istockphoto.com/id/1135382312/photo/professional-chef-plating-gourmet-dish.jpg?s=612x612&w=0&k=20&c=932kpuNbeFLCWHh2GqzaNtYpHsStpavb86tTE8aovTY=",
+        "description": "Gualtiero Marchesi was an Italian chef considered by many to be the founder of modern Italian cuisine. He was the first Italian chef to be awarded three Michelin stars, and has trained many of the top chefs in Italian Food today.",
+        "likes": 9000,
+        "num_recipes": 3,
+        "years_experience": 20,
+        "recipes": [
+            {   
+                "recipe_img":"https://www.thesun.co.uk/wp-content/uploads/2020/08/NINTCHDBPICT000603046726.jpg",
+                "recipe_name": "Spaghetti with Lemon and Arugula",
+                "country": "Italian Food",
+                "ingredients": [
+                    "spaghetti",
+                    "lemon",
+                    "arugula",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "cooking_method": "1. Cook spaghetti in boiling salted water. 2. Reserve 1 cup of pasta water. 3. In a large skillet, heat olive oil and garlic. 4. Add lemon zest and juice. 5. Add cooked pasta, arugula, and pasta water. 6. Toss to combine. 7. Add parmesan cheese and season with salt and pepper. 8. Serve hot.",
+                "rating": 4.5
+            },
+            {   
+                "recipe_img":"https://fullsuitcase.com/wp-content/uploads/2020/06/Authentic-Italian-food-by-region.jpg",
+                "recipe_name": "Pesto Risotto",
+                "country": "Italian Food",
+                "ingredients": [
+                    "arborio rice",
+                    "chicken broth",
+                    "pesto sauce",
+                    "parmesan cheese",
+                    "butter"
+                ],
+                "cooking_method": "1. In a large saucepan, heat chicken broth over medium heat. 2. In another saucepan, heat butter and add arborio rice. 3. Add chicken broth, one ladle at a time, stirring constantly. 4. Add pesto sauce and parmesan cheese. 5. Cook until the rice is tender and the risotto is creamy. 6. Serve hot.",
+                "rating": 4.8
+            },
+            {   
+                "recipe_img":"https://www.tastingtable.com/img/gallery/20-italian-dishes-you-need-to-try-at-least-once/l-intro-1643403830.jpg",
+                "recipe_name": "Chicken Piccata",
+                "country": "Italian Food",
+                "ingredients": [
+                    "chicken breasts",
+                    "flour",
+                    "butter",
+                    "lemon juice",
+                    "capers"
+                ],
+                "cooking_method": "1. Season chicken breasts with salt and pepper. 2. Dredge in flour. 3. In a large skillet, heat butter over medium heat. 4. Add chicken breasts and cook until golden brown. 5. Add lemon juice and capers. 6. Cook until the sauce thickens. 7. Serve hot.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_name": "Carlo Cracco",
+        "chef_picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=a_e524ohK5mfy8Ef2QyeENKQHShv7z6vv-ZztCUCeCc=",
+        "description": "Carlo Cracco is an Italian chef and television personality. He is the owner of several restaurants in Milan, and is known for his modern and experimental approach to Italian cuisine.",
+        "likes": 9000,
+        "num_recipes": 3,
+        "years_experience": 20,
+        "recipes": [
+            {   
+                "recipe_img":"https://www.thesun.co.uk/wp-content/uploads/2020/08/NINTCHDBPICT000603046726.jpg",
+                "recipe_name": "Spaghetti with Lemon and Arugula",
+                "country": "Italian Food",
+                "ingredients": [
+                    "spaghetti",
+                    "lemon",
+                    "arugula",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "cooking_method": "1. Cook spaghetti in boiling salted water. 2. Reserve 1 cup of pasta water. 3. In a large skillet, heat olive oil and garlic. 4. Add lemon zest and juice. 5. Add cooked pasta, arugula, and pasta water. 6. Toss to combine. 7. Add parmesan cheese and season with salt and pepper. 8. Serve hot.",
+                "rating": 4.5
+            },
+            {   
+                "recipe_img":"https://fullsuitcase.com/wp-content/uploads/2020/06/Authentic-Italian-food-by-region.jpg",
+                "recipe_name": "Pesto Risotto",
+                "country": "Italian Food",
+                "ingredients": [
+                    "arborio rice",
+                    "chicken broth",
+                    "pesto sauce",
+                    "parmesan cheese",
+                    "butter"
+                ],
+                "cooking_method": "1. In a large saucepan, heat chicken broth over medium heat. 2. In another saucepan, heat butter and add arborio rice. 3. Add chicken broth, one ladle at a time, stirring constantly. 4. Add pesto sauce and parmesan cheese. 5. Cook until the rice is tender and the risotto is creamy. 6. Serve hot.",
+                "rating": 4.8
+            },
+            {   
+                "recipe_img":"https://www.tastingtable.com/img/gallery/20-italian-dishes-you-need-to-try-at-least-once/l-intro-1643403830.jpg",
+                "recipe_name": "Chicken Piccata",
+                "country": "Italian Food",
+                "ingredients": [
+                    "chicken breasts",
+                    "flour",
+                    "butter",
+                    "lemon juice",
+                    "capers"
+                ],
+                "cooking_method": "1. Season chicken breasts with salt and pepper. 2. Dredge in flour. 3. In a large skillet, heat butter over medium heat. 4. Add chicken breasts and cook until golden brown. 5. Add lemon juice and capers. 6. Cook until the sauce thickens. 7. Serve hot.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_name": "Davide Oldani",
+        "chef_picture": "https://media.istockphoto.com/id/690761112/photo/smiling-chef-with-cut-vegetables-in-kitchen.jpg?s=612x612&w=0&k=20&c=FsKZjzC_djiz8aIkwiAR6ir8-b4i5A-G-Q0R-3EUQvo=",
+        "description": "Davide Oldani is an Italian chef and owner of the Michelin-starred restaurant D'O in Milan. He is known for his pop cuisine style, which involves making high-quality, innovative cuisine accessible to a wider audience.",
+        "likes": 9000,
+        "num_recipes": 3,
+        "years_experience": 20,
+        "recipes": [
+            {   
+                "recipe_img":"https://www.thesun.co.uk/wp-content/uploads/2020/08/NINTCHDBPICT000603046726.jpg",
+                "recipe_name": "Spaghetti with Lemon and Arugula",
+                "country": "Italian Food",
+                "ingredients": [
+                    "spaghetti",
+                    "lemon",
+                    "arugula",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "cooking_method": "1. Cook spaghetti in boiling salted water. 2. Reserve 1 cup of pasta water. 3. In a large skillet, heat olive oil and garlic. 4. Add lemon zest and juice. 5. Add cooked pasta, arugula, and pasta water. 6. Toss to combine. 7. Add parmesan cheese and season with salt and pepper. 8. Serve hot.",
+                "rating": 4.5
+            },
+            {   
+                "recipe_img":"https://fullsuitcase.com/wp-content/uploads/2020/06/Authentic-Italian-food-by-region.jpg",
+                "recipe_name": "Pesto Risotto",
+                "country": "Italian Food",
+                "ingredients": [
+                    "arborio rice",
+                    "chicken broth",
+                    "pesto sauce",
+                    "parmesan cheese",
+                    "butter"
+                ],
+                "cooking_method": "1. In a large saucepan, heat chicken broth over medium heat. 2. In another saucepan, heat butter and add arborio rice. 3. Add chicken broth, one ladle at a time, stirring constantly. 4. Add pesto sauce and parmesan cheese. 5. Cook until the rice is tender and the risotto is creamy. 6. Serve hot.",
+                "rating": 4.8
+            },
+            {   
+                "recipe_img":"https://www.tastingtable.com/img/gallery/20-italian-dishes-you-need-to-try-at-least-once/l-intro-1643403830.jpg",
+                "recipe_name": "Chicken Piccata",
+                "country": "Italian Food",
+                "ingredients": [
+                    "chicken breasts",
+                    "flour",
+                    "butter",
+                    "lemon juice",
+                    "capers"
+                ],
+                "cooking_method": "1. Season chicken breasts with salt and pepper. 2. Dredge in flour. 3. In a large skillet, heat butter over medium heat. 4. Add chicken breasts and cook until golden brown. 5. Add lemon juice and capers. 6. Cook until the sauce thickens. 7. Serve hot.",
+                "rating": 4.6
+            }
+        ]
+    }
+]
